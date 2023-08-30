@@ -7,5 +7,7 @@ This 8-Week SQL Challenge was curated by Danny Ma in order to aid data analysts 
 ## Week1 - Danny's Diner
 ![image](https://github.com/khrysteen/8week-sql-challenge/assets/114884411/fd651868-385a-4eff-99d2-7c3158fffcff)
 
+
+https://github.com/khrysteen/8week-sql-challenge/blob/main/Case%20Study%20%231-%20Danny's%20Diner
 # Tools Used
 I used the PostgreSql 13 on DBFiddle
